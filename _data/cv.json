@@ -1,152 +1,216 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Dhiaa Mejdi",
+    "email": "dhiaamejdide@gmail.com",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "",
+    "summary": "Research interests revolve around advancing the automation, interpretability, and scalability of data engineering pipelines using large language models (LLMs). Focused on generating, validating, and optimizing ETL workflows, improving MLOps processes, and bridging state-of-the-art NLP with robust, production-scale data engineering solutions.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
-      "region": ""
+      "city": "Düsseldorf",
+      "countryCode": "DE",
+      "region": "North Rhine-Westphalia"
     },
     "profiles": [
       {
-        "network": "Google Scholar",
-        "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-      },
-      {
-        "network": "ORCID",
-        "username": "",
-        "url": "http://orcid.org/yourorcidurl"
+        "network": "LinkedIn",
+        "username": "Dhiaa Mejdi",
+        "url": "https://de.linkedin.com/in/dhiaa-mejdi"
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "dhiaamejdi",
+        "url": "https://github.com/Dhiaadean"
+      },
+      {
+        "network": "Google Scholar",
+        "username": "Dhiaa mejdi",
+        "url": "https://scholar.google.com/citations?user=ohZiy5oAAAAJ&hl=en"
+      },
+      {
+        "network": "ResearchGate",
+        "username": "Dhiaa-Mejdi",
+        "url": "https://www.researchgate.net/profile/Dhiaa-Mejdi"
       }
     ]
   },
-  "work": [],
+  "work": [
+    {
+      "position": "Data Engineer",
+      "name": "ERGO GROUP AG",
+      "location": "Düsseldorf, Germany",
+      "startDate": "2023-09",
+      "summary": "Designed and automated scalable data pipelines for AWS-based data lakes, enabling efficient ingestion and transformation of health insurance data. Automated ETL workflows with Spark/PySpark, supported MLOps pipelines, and enabled RESTful model serving via FastAPI.",
+      "highlights": [
+        "Reduced data preparation time from one month to one day",
+        "Integrated AWS SageMaker Pipelines and Docker for model lifecycle management",
+        "Contributed to CI/CD workflows for MLOps"
+      ]
+    },
+    {
+      "position": "Deep Learning Research Intern",
+      "name": "Hahn-Schickard Gesellschaft für Angewandte Forschung e.V.",
+      "location": "Villingen-Schwenningen, Germany",
+      "startDate": "2023-03",
+      "endDate": "2023-08",
+      "summary": "Developed and integrated deep neural networks for product identification and spectral dimensionality reduction in an Industry 4.0 environment. Achieved 4.0 GPA, High Honours, and Jury Distinction.",
+      "highlights": [
+        "Designed a Spectroscopic Process Analytical System for quality control",
+        "Applied advanced ML techniques (MLP, XGBoost) and feature analysis",
+        "Managed full project lifecycle from data collection to deployment"
+      ]
+    },
+    {
+      "position": "DevOps Engineer",
+      "name": "OliveSoft",
+      "location": "Paris, France",
+      "startDate": "2022-09",
+      "endDate": "2023-01",
+      "summary": "Managed service desk operations, JIRA/Confluence administration, and partner training. Maintained company web infrastructure and mentored on Azure and WordPress."
+    },
+    {
+      "position": "MLOps Research Intern",
+      "name": "Udini (DeepSmile Lab)",
+      "startDate": "2022-06",
+      "endDate": "2022-09",
+      "summary": "Implemented deployment workflows for DL models on AWS, explored quantization and compilation to reduce GPU memory footprint.",
+      "highlights": [
+        "Technologies: Python, ONNX, TensorRT, AWS, CI/CD"
+      ]
+    },
+    {
+      "position": "Machine Learning Intern & Technology Unit Leader",
+      "name": "Rouge International",
+      "location": "Hong Kong (Remote)",
+      "startDate": "2022-04",
+      "endDate": "2022-07",
+      "summary": "Built 'FUTURE Engine', an AI-powered search engine for ESG analytics."
+    },
+    {
+      "position": "Research Student Assistant",
+      "name": "ENIS, University of Sfax",
+      "location": "Sfax, Tunisia",
+      "startDate": "2021-09",
+      "endDate": "2022-05",
+      "summary": "Developed a social user profiling system for personalized ads using multimodal ML models.",
+      "highlights": [
+        "Achieved 4.0 GPA on project",
+        "Implemented TunBERT, CNN, RNN, LSTM models"
+      ]
+    }
+  ],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
+      "institution": "Hochschule Offenburg",
+      "area": "Computer Science and Engineering (Exchange Student)",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
-      "gpa": null,
-      "courses": []
+      "startDate": "2023-01",
+      "endDate": "2023-06",
+      "gpa": "4.0",
+      "summary": "DAAD KOSPIE scholarship recipient (top 10% acceptance rate)"
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
+      "institution": "National Engineering School of Sfax",
+      "area": "Master's equivalent in Computer Science & Applied Mathematics Engineering",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
+      "endDate": "2023-06",
+      "gpa": "4.0 (Master's) / 3.5 cumulative",
+      "advisors": ["Adel M. Alimi"]
     },
     {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
-      "gpa": null,
-      "courses": []
+      "institution": "Faculty of Sciences of Sfax",
+      "area": "Degree in Mathematics and Physics",
+      "endDate": "2020-07",
+      "summary": "First in class (Year 1), top 30% in national engineering school entrance exam"
     }
   ],
-  "skills": [],
-  "languages": [],
-  "interests": [],
-  "references": [],
+  "skills": [
+    {
+      "name": "Programming Languages",
+      "keywords": ["Python", "C", "C++", "Java"]
+    },
+    {
+      "name": "Big Data & Data Engineering",
+      "keywords": ["Apache Spark", "PySpark", "Kafka", "AWS EMR", "Databricks", "AWS S3", "AWS Glue", "ETL Development"]
+    },
+    {
+      "name": "MLOps & CI/CD",
+      "keywords": ["SageMaker Pipelines", "Model Deployment & Monitoring", "GitLab CI/CD", "GitHub Actions", "Jenkins", "DataDog"]
+    },
+    {
+      "name": "Cloud Platforms",
+      "keywords": ["AWS", "Microsoft Azure"]
+    },
+    {
+      "name": "ML & Deep Learning",
+      "keywords": ["CNN", "RNN", "Keras", "TensorFlow", "PyTorch", "Scikit-learn"]
+    },
+    {
+      "name": "Generative AI & LLM Tooling",
+      "keywords": ["LangChain", "RAG", "OpenAI API", "Hugging Face Transformers"]
+    }
+  ],
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "http://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
+      "name": "STM32 miner: A lightweight blockchain mining system",
+      "publisher": "IEEE DTTIS 2023",
+      "releaseDate": "2023-09-01"
     },
     {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "http://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
+      "name": "Integration of a Deep Neural Network for Product Identification And Spectra Dimensional Reduction (UV to VIS) in a Full Industry 4.0 Environment",
+      "publisher": "National Engineering School of Sfax",
+      "releaseDate": "2023-06-01"
     },
     {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
+      "name": "LLM-in-the-Loop Feedback-Driven ETL: A Modular Architecture for Trustworthy, Self-Adaptive Data Pipelines",
+      "publisher": "Manuscript in preparation (Target: VLDB 2026)"
     },
     {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
-    }
-  ],
-  "presentations": [
-    {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
+      "name": "Prompt Engineering for Data Engineering Tasks: Techniques, Applications, and Comparative Analysis",
+      "publisher": "Manuscript in preparation (Target: NeurIPS 2025 Workshop)"
     },
     {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
-    },
-    {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
+      "name": "Social User Profiling for Personalized Advertisement Recommendation: A Multi-Modal Deep Learning Approach",
+      "publisher": "Under review"
     }
   ],
   "teaching": [
     {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
+      "course": "Guest Lecturer & Peer Instructor",
+      "institution": "National Engineering School of Sfax",
+      "date": "2020-10-01",
+      "role": "Lecturer",
+      "description": "Delivered lectures on Quality Management, Cybersecurity, .NET Architecture, Web Development, Microcontroller systems."
     },
     {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
+      "course": "Workshop Facilitator",
+      "institution": "IEEE ENIS Student Branch",
+      "date": "2021-01-01",
+      "role": "Workshop Leader",
+      "description": "Led sessions on MLOps best practices, C++, competitive programming, and video editing."
+    },
+    {
+      "course": "STEM Outreach & Youth Mentorship",
+      "institution": "IEEE ENIS Student Branch",
+      "date": "2022-06-01",
+      "role": "Mentor",
+      "description": "Organized and delivered space and cybersecurity workshops for high school students."
     }
   ],
-  "portfolio": [
+  "awards": [
     {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
-      "date": "",
-      "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+      "title": "DAAD KOSPIE Scholarship",
+      "date": "2022-07-19",
+      "awarder": "DAAD"
+    },
+    {
+      "title": "Best Chapter IAS Award",
+      "awarder": "IEEE TSYP Congress"
+    },
+    {
+      "title": "IEEE Regional Exemplary Student Branch Award",
+      "awarder": "IEEE"
     }
   ]
 }
