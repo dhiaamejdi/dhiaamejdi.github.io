@@ -2,12 +2,9 @@
   "basics": {
     "name": "Dhiaa Mejdi",
     "email": "dhiaamejdide@gmail.com",
-    "phone": "",
-    "website": "",
+    "website": "https://dhiaamejdi.github.io/",
     "summary": "Research interests revolve around advancing the automation, interpretability, and scalability of data engineering pipelines using large language models (LLMs). Focused on generating, validating, and optimizing ETL workflows, improving MLOps processes, and bridging state-of-the-art NLP with robust, production-scale data engineering solutions.",
     "location": {
-      "address": "",
-      "postalCode": "",
       "city": "Düsseldorf",
       "countryCode": "DE",
       "region": "North Rhine-Westphalia"
@@ -198,6 +195,7 @@
       "description": "Organized and delivered space and cybersecurity workshops for high school students."
     }
   ],
+  
   "awards": [
     {
       "title": "DAAD KOSPIE Scholarship",

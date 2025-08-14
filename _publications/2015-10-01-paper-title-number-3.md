@@ -1,14 +1,12 @@
 ---
-title: "Paper Title Number 3"
+title: "Social User Profiling for Personalized Advertisement Recommendation: A Multi-Modal Deep Learning Approach"
 collection: publications
 category: manuscripts
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+permalink: /publication/2024-02-01-social-user-profiling
+excerpt: 'A multi-modal deep learning framework combining CV and NLP for Arabic-language targeted advertising.'
+date: 2024-02-01
+venue: 'Manuscript under review'
+paperurl: 'https://drive.google.com/file/d/1rFdBhYGef69W_CWL7yKBJKjbW4h5vWO1/view?usp=drive_link'
+citation: 'Dhiaa Mejdi*, Imen Selmi*, Oussama Mejri*, Adel M. Alimi. (2024). "Social User Profiling for Personalized Advertisement Recommendation: A Multi-Modal Deep Learning Approach." Manuscript under review.'
 ---
-
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+This paper presents a novel multi-modal deep learning framework for social user profiling that combines computer vision and natural language processing techniques to enhance advertisement recommendation systems. Our approach integrates CNNs for visual content analysis with advanced NLP models, including TunBERT for Arabic dialect processing, to create comprehensive user profiles. The system employs web scraping to gather social media data and uses Firebase and MongoDB for scalable management. Through the integration of RNNs, LSTMs, and GRUs, our framework improves user profiling accuracy over traditional demographic approaches, addressing the cultural and linguistic nuances of Arabic-speaking markets.

@@ -1,14 +1,12 @@
 ---
-title: "Paper Title Number 2"
+title: "DE-Bench: A Comprehensive Benchmark for Evaluating Large Language Models on Data Engineering Tasks"
 collection: publications
 category: manuscripts
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink: /publication/2025-05-01-de-bench
+excerpt: 'A benchmark for assessing LLM performance on SQL optimization, data quality, schema matching, and pipeline generation.'
+date: 2025-05-01
+venue: 'Manuscript in preparation Target Venue: NeurIPS 2025 Workshop on Evaluating the Evolving LLM Lifecycle'
+paperurl: 'https://drive.google.com/file/d/1Y-rRXafIiKX_qZcP9IHJoRs1vD-5Qidz/view?usp=sharing'
+citation: 'Dhiaa Mejdi*. (2025). "DE-Bench: A Comprehensive Benchmark for Evaluating Large Language Models on Data Engineering Tasks." NeurIPS 2025 Workshop on Evaluating the Evolving LLM Lifecycle.'
 ---
-
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+We introduce DE-Bench, a novel benchmark designed to evaluate the performance of Large Language Models (LLMs) on critical data engineering tasks. Our benchmark encompasses four key domains: SQL optimization, data quality assessment, schema matching, and pipeline generation. We evaluate five widely-used models including GPT-2, LLaMA-2-7B, Mistral-7B, Falcon-7B, and GPT-3.5-Turbo across these tasks using quantized implementations for efficient evaluation. Our results reveal significant performance variations across models and tasks, with open-source 7B parameter models achieving comparable or superior performance to larger commercial models on specific data engineering tasks. The benchmark and evaluation framework are made publicly available to facilitate future research in LLM applications for data engineering.
