@@ -219,13 +219,13 @@ kramdown:
 collections:
   teaching:
     output: true
-    permalink: /:collection/:path/
+    permalink: /teaching/
   publications:
     output: true
-    permalink: /:collection/:path/
+    permalink: /publications/
   portfolio:
     output: true
-    permalink: /:collection/:path/
+    permalink: /portfolio/
   talks:
     output: true
     permalink: /:collection/:path/
