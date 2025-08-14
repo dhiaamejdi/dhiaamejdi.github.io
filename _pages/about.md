@@ -28,7 +28,7 @@ Beyond research and engineering, I am deeply engaged in teaching, mentorship, an
 **Keywords:** Data Engineering, MLOps, LLMs, Generative AI, Big Data Systems, Cloud Computing, NLP for ETL Automation.
 
 
-<!-- Recent Publications -->
+<!-- Regcent Publications -->
 <h3>📚 Recent Publications</h3>
 <ul>
   {% for pub in site.publications limit:3 %}
